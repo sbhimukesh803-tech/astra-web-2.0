@@ -1,0 +1,37 @@
+uploads = []
+
+[[generated]]
+id = "ChyLsyf3MbwZ6RxY9SQHg"
+uri = "file://artifacts/astra-ai/public/hero-bg.png"
+type = "image"
+title = "Deep space nebula background"
+
+[[generated]]
+id = "3tURczAF9Oi6QN500_mSA"
+uri = "file://artifacts/astra-ai/public/feature-data.png"
+type = "image"
+title = "Abstract data visualization"
+
+[[generated]]
+id = "wsuXmnOzM_DRcPp3869Ir"
+uri = "file://artifacts/astra-ai/public/feature-security.png"
+type = "image"
+title = "Glowing crystal shield"
+
+[[generated]]
+id = "Bor3QL1Wu6jzoJ4nbACOm"
+uri = "file://artifacts/astra-ai/public/feature-speed.png"
+type = "image"
+title = "Abstract light beams"
+
+[[outputs]]
+id = "Na5W0iT9ixh05328Hl8Gg"
+uri = "file://astra-ai-2.tar.gz"
+type = "unspecified"
+title = "ASTRA.AI 2 — Full App (42 MB)"
+
+[[outputs]]
+id = "unU8wQ_AuYoTQRW8O-FDo"
+uri = "file://astra-ai-2-src.tar.gz"
+type = "unspecified"
+title = "ASTRA.AI 2 — Source Code (6.4 MB)"
