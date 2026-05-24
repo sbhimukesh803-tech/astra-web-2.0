@@ -1,0 +1,70 @@
+Upgrade ASTRA.AI with advanced Settings and Human-like AI response behavior.
+
+SETTINGS PAGE FEATURES:
+
+Create a modern Settings panel with beautiful UI and smooth animations.
+
+Add a “Font Style” section where users can choose different fonts for the entire app.
+When a font is selected, the whole website including chat messages, buttons, sidebar, settings, headings, and inputs should instantly change to that font.
+
+Include multiple premium-looking fonts such as:
+
+* Poppins
+* Inter
+* Sora
+* Outfit
+* Montserrat
+* Urbanist
+* Roboto
+* Space Grotesk
+* Nunito
+* Playfair Display
+
+Requirements:
+
+* Add live font preview.
+* Save selected font in localStorage.
+* Automatically apply saved font when user revisits website.
+* Add smooth transition while changing fonts.
+* Mobile responsive design.
+* Modern glassmorphism / AI futuristic design.
+
+AI RESPONSE BEHAVIOR:
+
+Make ASTRA.AI respond in a clean, smart, modern, human-like conversational style similar to ChatGPT.
+
+Response style requirements:
+
+* Use proper formatting.
+* Use headings when needed.
+* Use bullet points for clarity.
+* Avoid giant paragraphs.
+* Keep answers clean and readable.
+* Add relevant emojis naturally 😊✨🚀
+* Do NOT overuse emojis.
+* Make responses feel friendly and intelligent.
+* Use spacing properly.
+* Important points should stand out.
+* Code should appear in proper code blocks.
+* Long answers should be divided into sections.
+* Maintain professional but warm tone.
+
+Examples of response behavior:
+
+* Short answers should feel smooth and natural.
+* Explanations should be structured.
+* Technical answers should be beginner-friendly.
+* Creative answers should feel engaging.
+* Use conversational flow instead of robotic text.
+
+UI REQUIREMENTS:
+
+* Typing animation
+* Smooth message appearance animation
+* Better spacing between messages
+* Markdown rendering support
+* Syntax highlighting for code blocks
+* Beautiful chat bubbles
+* Responsive layout for desktop and mobile
+
+Make everything look polished, premium, futuristic, and production-ready like a real modern AI assistant.
